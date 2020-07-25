@@ -1,2 +1,2 @@
-function new ff
+idite naxyi so svoim ebanam kompil9taram
 
